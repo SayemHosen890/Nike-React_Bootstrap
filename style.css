@@ -1,0 +1,18 @@
+nav a{
+    list-style-type: none;
+}
+.bg-info-color{
+    background-color: #FFF9F4;
+}
+.btn-primary-color{
+    background-image: linear-gradient( rgba(61, 79, 243, 1), rgba(53, 67, 188,1));
+}
+.bg-primary-color{
+    background-color: #C6C6C7;
+}
+.price{
+    color: orange;
+}
+.text-color{
+    color: rgb(226, 96, 74);
+}
